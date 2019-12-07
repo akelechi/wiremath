@@ -1,0 +1,9 @@
+C:\Users\The Programmer\Documents\WireMath\WireMath\bin\Debug\WireMath.exe.config
+C:\Users\The Programmer\Documents\WireMath\WireMath\bin\Debug\WireMath.exe
+C:\Users\The Programmer\Documents\WireMath\WireMath\bin\Debug\WireMath.pdb
+C:\Users\The Programmer\Documents\WireMath\WireMath\obj\Debug\WireMath.csprojResolveAssemblyReference.cache
+C:\Users\The Programmer\Documents\WireMath\WireMath\obj\Debug\WireMath.Form1.resources
+C:\Users\The Programmer\Documents\WireMath\WireMath\obj\Debug\WireMath.Properties.Resources.resources
+C:\Users\The Programmer\Documents\WireMath\WireMath\obj\Debug\WireMath.csproj.GenerateResource.Cache
+C:\Users\The Programmer\Documents\WireMath\WireMath\obj\Debug\WireMath.exe
+C:\Users\The Programmer\Documents\WireMath\WireMath\obj\Debug\WireMath.pdb
